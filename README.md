@@ -33,4 +33,4 @@ RingClassifier
 - `clustered_imgs` includes 4 subfolders, each containing the images grouped into that cluster. 
 
 ## How to run the code
-Clone this github repository
+Clone this github repository, run each code block in the ipynb notebooks.
