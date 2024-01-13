@@ -31,3 +31,6 @@ RingClassifier
 - `clustered_values.csv` contains five columns: image id, curvature, torsion, degree, and cluster number obtained from stage 1. It is the input data file for stage 2.
 - `stage1_visualization.html` is an interactive 3-D plot of `clustered_values.csv`
 - `clustered_imgs` includes 4 subfolders, each containing the images grouped into that cluster. 
+
+## How to run the code
+Clone this github repository
